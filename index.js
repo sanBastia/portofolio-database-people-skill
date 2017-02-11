@@ -27,4 +27,4 @@ var db = mongoose.connection
 // if user / skill not exist then show error messsage
 // skillCONTROLLER.newScore('Captain America', 'Intelligence 60%', 10)
 
-userCONTROLLER.allUser()
+CONTROLLERS.help()
